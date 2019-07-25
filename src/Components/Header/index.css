@@ -1,0 +1,36 @@
+.head{
+  align-content: center;
+  justify-content: center;
+  padding:20px 0px 0px 0px;
+  padding-left: 500px;
+
+}
+.container{
+    color: red;
+}
+.navbar-default{
+    background-color: #EF6B49;
+}
+.navbar{
+  align-items: center;
+  color: white;
+  border:0px;
+}
+.navbar{
+  padding:0px 0px 0px 0px;
+
+}
+h1{
+  color: black;
+}
+.navbar-header{
+  padding-left: 80px;
+}
+
+
+.about{
+  color:white;
+}
+.nav-item{
+  color: white;
+}

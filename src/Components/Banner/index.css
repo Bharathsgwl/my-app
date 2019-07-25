@@ -1,0 +1,16 @@
+.hi{
+  width:200;
+  height:200;
+}
+.banner{
+  border: 20px;
+  border-color: red;
+
+}
+.banner-img{
+  width:1350px;
+  height:250px;
+}
+.mySlides{
+  width:50%;
+}
