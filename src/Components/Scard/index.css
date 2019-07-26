@@ -1,0 +1,11 @@
+.card{
+margin:0px;
+ max-width: 300px;
+border-radius: 0px;
+ text-align: center;
+ font-family: arial;
+}
+.img{
+  width:300px;
+  height:300px;
+}

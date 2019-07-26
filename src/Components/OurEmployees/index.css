@@ -1,0 +1,22 @@
+.card{
+margin:0px;
+ max-width: 300px;
+border-radius: 0px;
+ text-align: center;
+ font-family: arial;
+}
+h4{
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px;
+}
+h3{
+color:#A3A2A2;
+}
+p{
+  display:block;
+  font-family:cursive;
+}
+.bl1{
+  padding-left: 50px;
+}

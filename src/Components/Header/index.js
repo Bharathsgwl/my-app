@@ -26,22 +26,17 @@ background:"orange"
   </div>
   <div class="navbar-header">
   <img  src="https://www.goodworklabs.com/wp-content/uploads/2013/11/logo-GWL1.png"></img>
-    </div>
-
-
-
-    <ul class="nav navbar">
-      <li class="active"><a href="#"> home</a></li>
-      <li class="nav-item">
-      <NavLink to="/footer">About US</NavLink></li>
-      <li class="nav-item">
-      <a href="#C4">About work</a></li>
-      <li class="nav-item">
-      <a href="#">Footer</a></li>
-    </ul>
-
+  </div>
+  <div class="topnav">
+  <a class="active" href="#"> home</a>
+      <NavLink to="/footer">About US</NavLink>
+      <a href="#C4">About work</a>
+      <a href="#">Footer</a>
+</div>
+<br /><div class="col-md-4">
     <div className="content">
     <Route path="/footer" component={Footer} />
+    </div>
     </div>
 </nav>
 </div>

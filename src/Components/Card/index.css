@@ -1,8 +1,12 @@
 .emp-details{
   text-align: center;
 }
+.components{
+  background-color: white;
+}
 .col-md-4{
   padding-left: 40px;
+  padding-top: 20px;
 }
 
 .flip-card {
