@@ -4,6 +4,7 @@ import "./index.css";
 import Scard from '../Scard';
 
 class Card extends React.Component{
+  //Stateless is working 
   render(){
     const info={name:"Suv",description:"made in India",img:"/Assets/images/suv1.jpg"};
     const info2={name:"ferrari",description:"made in japan",img:"/Assets/images/ferrari.jpg"};
@@ -74,7 +75,7 @@ class Card extends React.Component{
 <OurEmployees />
 </div>
 </div>
-<h4>Probes images</h4> 
+<h4>props images</h4>
 <div class="col-md-4">
 <Scard brand={info} />
 </div>
